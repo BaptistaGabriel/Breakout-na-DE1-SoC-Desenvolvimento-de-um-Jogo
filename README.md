@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Breakout na DE1 SoC - Desenvolvendo um Jogo 
+# Breakout na DE1 SoC - Desenvolvimento de um Jogo 
 </div>
 
 ## Índice:
