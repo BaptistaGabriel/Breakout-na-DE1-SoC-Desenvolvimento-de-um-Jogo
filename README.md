@@ -10,8 +10,6 @@
     - [1.2. Requisitos do Problema](#12-requisitos-do-problema)
     - [1.3. Plataformas e Softwares utilizados](#13-plataformas-e-softwares-utilizados)
     - [1.4. Hardware da DE1-SoC](#14-hardware-da-de1-soc)
-      - [FPGA](#fpga)
-      - [HPS (Hard Processor System)](#hps-hard-processor-system)
   - [2. Visão Geral](#2-visão-geral)
     - [2.1. Funcionamento do Sistema](#21-funcionamento-do-sistema)
     - [2.2. Funcionamento do Jogo](#22-funcionamento-do-jogo)
